@@ -18,4 +18,4 @@ def palindrome(word):
             if word[l] != word[r]:
                 return False
         return True
-print(palindrome('tcat'))
+print(palindrome('tacocat'))
